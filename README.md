@@ -10,3 +10,4 @@
 - [Git - система контроля версий](https://netology.ru/sharing/9a4566bf815a17f70e06be00c0a0bd59?utm_source=social&utm_campaign=certificate_lms)
 - [ООП и работа с Api](https://netology.ru/sharing/cc34a4b6d384d45f38eeaaabecb6a7a4?utm_source=social&utm_campaign=certificate_lms)
 - [Базы данныйх для Python-разработчиков](https://netology.ru/sharing/ca691ef1c1706c15975c37fc8058218d?utm_source=social&utm_campaign=certificate_lms)
+- [Python в веб разработке](https://netology.ru/sharing/e2f5463e2600a437f5c409542b1a22f2?utm_source=social&utm_campaign=certificate_lms)
