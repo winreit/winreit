@@ -11,3 +11,9 @@
 - [ООП и работа с Api](https://netology.ru/sharing/cc34a4b6d384d45f38eeaaabecb6a7a4?utm_source=social&utm_campaign=certificate_lms)
 - [Базы данныйх для Python-разработчиков](https://netology.ru/sharing/ca691ef1c1706c15975c37fc8058218d?utm_source=social&utm_campaign=certificate_lms)
 - [Python в веб разработке](https://netology.ru/sharing/e2f5463e2600a437f5c409542b1a22f2?utm_source=social&utm_campaign=certificate_lms)
+
+
+Мои собственные проекты:
+
+- [Телеграмм бот по подсчету заработной платы](https://github.com/winreit/Work_bot) В данном проекте потихоньку добавляю новый функционал
+- [Скрипт по парсингу данных с сайта Википедия](https://github.com/winreit/parser_wikipedia) 
