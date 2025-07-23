@@ -40,5 +40,5 @@
 Мои контактные данные:
 
 - https://vk.com/etoje_ya
-- winreii@yandex,ru
+- winreii@yandex.ru
 - @mturlakov telegram
