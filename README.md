@@ -13,7 +13,7 @@
 - [Python в веб разработке](https://netology.ru/sharing/e2f5463e2600a437f5c409542b1a22f2?utm_source=social&utm_campaign=certificate_lms)
 - [Введение в SQL](https://www.sololearn.com/certificates/CC-AERSE5TH)
 
-## Навыки
+Мои навыки:
 - **Языки программирования**: Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="25" height="25" />, SQL
 - **Инструменты разработки**: Git <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="25" height="25" />, GitHub <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="25" height="25" />
 - **Базы данных**: PostgreSQL <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="25" height="25" />, SQLAlchemy <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" width="25" height="25" />, DBeaver <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="25" height="25" />
